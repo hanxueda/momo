@@ -6,6 +6,6 @@ package com.momo.usercenter.configuration;
  */
 //@Configuration
 //@RibbonClient(name = "content-center",configuration = RibbonConfiguration.class)
-//ribbon 全局配置使用：@RibbonClients(defaultConfiguration = RibbonConfiguration.class) 同时application.yml里的ribbon去掉
+//ribbon 全局配置使用：@RibbonClients(defaultConfiguration = RibbonConfiguration.class) 同时application.yml里的ribbon去掉.
 public class ContentCenterRibbonConfiguration  {
 }
